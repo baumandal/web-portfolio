@@ -45,3 +45,27 @@ section{
     background-position: right;
     
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+}
+.expereince-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(107, 202, 107), rgb(1, 59, 1));
+    border-image-slice: 1;
+}
+#first-learner{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, darkblue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font size: 12px;
+}
